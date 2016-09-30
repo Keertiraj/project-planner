@@ -43,3 +43,9 @@ To run the application, follow these steps:
     2. Performance: The assignment of Projects to employees has the linear time complexity of O(n).
     3. Project Planner: Project planner runs for the beginning of the year. Application can also be run for specific future date by passing the date parameter.
 7. JUnit integrations are written for various scenarios to make sure that the application changes do not break the functionality. 
+
+#### Assumptions
+
+1. Application runs on Java 7 and Maven 3
+2. One Employee has one Skill 
+3. Project always assumes one QA and one Ops for a project
