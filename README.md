@@ -1,4 +1,4 @@
-### Adidas Interview Project - Project Planner
+### Application - Project Planner
 
 #### Technologies used in the project
 
