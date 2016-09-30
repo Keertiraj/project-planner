@@ -18,11 +18,11 @@ To run the application, follow these steps:
 
    From command line execute the one of the following commands:
 
-    <code>$ cat <file-name>.txt | java -jar target/project-planner-0.0.1-SNAPSHOT.jar </code>
+    <code>$ cat < file-name.txt >  | java -jar target/project-planner-0.0.1-SNAPSHOT.jar </code>
     
     OR
     
-    <code>$ java -jar target/project-planner-0.0.1-SNAPSHOT.jar <file-name>.txt </code>
+    <code>$ java -jar target/project-planner-0.0.1-SNAPSHOT.jar < file-name.txt >  </code>
     
    By Default, the application estimates the planning from the beginning of the year. To run the application for specific **Future date (dd-MM-yyyy)**, use following command:
    
